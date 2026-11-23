@@ -1,0 +1,4 @@
+Core region (e^-7<=u<=v<=w, v<=e^5, w<=e^24, e>=0.01, Delta>=0): B < -0.001 certified
+boxes examined: 70171; leaf counts: {'H': 1651, 'B-': 29248, 'empty': 250, 'outside': 3037, 'B+': 837, 'edge': 63}
+largest certified upper bound: [-0.0010045287187173971218196390356633733205 +/- 3.95e-41] on box (0.125, 0.5, 4.4375, 4.625, 8.5, 8.7421875)
+time 1s

@@ -1,0 +1,2 @@
+negative control OK: without Delta>=0 the bisection cannot terminate;
+  it stops at a box of width < 1e-6 around (u,v,w)=(0.247787, 0.386741, 0.472367): B=-4.13e-09, Delta=-0.1696
