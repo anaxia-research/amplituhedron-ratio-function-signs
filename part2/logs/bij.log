@@ -1,0 +1,8 @@
+s formula True
+Delta = r^2 True
+z+ formula True z- formula True
+inverse a True b True c True
+-x_u^+ True  -x_u^- True
+x+/x- True  1/u-1 True
+(1-u)(1-v)(1-w) identity True
+Phi(psi)=id (u-component): True
