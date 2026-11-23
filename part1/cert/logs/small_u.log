@@ -1,0 +1,2 @@
+Region S (u<=e^-7, v<=e^5, w<=e^24, e>0.01): Phi < -0.001 certified
+certified boxes: 1018, empty boxes: 151, max upper bound: [-0.0010044802220797515246088463927219190383 +/- 1.39e-41], time 0.0s
