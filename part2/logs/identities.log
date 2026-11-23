@@ -1,0 +1,4 @@
+decomposition vs GSVV, 200 points, max relative difference: 6.4214e-38
+J + log(abc)/2, max absolute value: 3.6734e-40
+L4 derivative formula and reflection identity, 50 points, max error: 1.1939e-39
+all L4 terms nonnegative: True
